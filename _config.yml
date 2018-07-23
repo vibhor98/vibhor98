@@ -7,8 +7,8 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://media.licdn.com/dms/image/C5603AQFrkTpRFED7Jw/profile-displayphoto-shrink_200_200/0?e=1538006400&v=beta&t=zLDMEoQgYuNBN8mxQ2-dZFCo-jweyqFs4fcHsg5v2Gc
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -16,8 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+url: http://vibhor98.github.io
 
 permalink: /:title/
 
@@ -35,7 +34,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: vibhor_711
+twitter: vibhor711
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -59,7 +58,7 @@ authors:
         bio: GSoC'18 @Oppia | Machine Learning Enthusiast | Data Science Lead @Computer Society of India, LNMIIT
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: vibhor_711
+        twitter: vibhor711
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
