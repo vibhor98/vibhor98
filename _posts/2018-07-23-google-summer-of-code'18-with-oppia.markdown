@@ -1,5 +1,5 @@
 ---
-title: "Google Summer of Code’18 with Oppia"
+title: "Google Summer of Code’ 18 with Oppia"
 layout: post
 date: 2018-07-23 00:30
 description:
