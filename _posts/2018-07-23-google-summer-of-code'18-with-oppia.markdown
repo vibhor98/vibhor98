@@ -7,7 +7,7 @@ image: '/assets/images/'
 tag:
 - gsoc
 - oppia
-blog: true
+category: blog
 author: Vibhor Agarwal
 ---
 
