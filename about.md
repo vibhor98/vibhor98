@@ -39,4 +39,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <ul>
 	<li><a href="https://github.com/vibhor98/Slack_bot">Slack Bot</a></li>
+	<li><a href="https://github.com/vibhor98/Face-Detector">Face Detector</a></li>
+	<li><a href="https://github.com/vibhor98/Intranet-Chat-Server">Intranet Chat Server</a></li>
+	<li><a href="https://github.com/vibhor98/Image-Compressor">Image Compressor</a></li>
+	<li><a href="https://github.com/vibhor98/Sign-Language-Predictor">Sign Language Predictor</a></li>
+	<li><a href="https://github.com/vibhor98/German-Credit-Dataset">German Credit Dataset Analysis</a></li>
+	<li><a href="https://github.com/vibhor98/Tracking-error-Optimization">Tracking error optimizer</a></li>
 </ul>
