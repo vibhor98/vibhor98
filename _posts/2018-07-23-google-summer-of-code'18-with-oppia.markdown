@@ -45,6 +45,7 @@ Interactions are associated with the rules in Oppia. These rules are designed to
 
 * **Is equivalent to** rule: This rule provides appropriate feedback to the learner when the submitted answer is mathematically equivalent to the input provided by the creator of the lesson. Ex- (2 km and 2000 m), ($2 and 200 cents) are equivalent pairs.
 
+
 **Drag and Drop Sorting interaction** allows the learner to drag and drop the items and arrange them in either ascending or descending order. This interaction aims at providing good understanding of arranging the things with the help of drag and drop interface. The draggable item can be an image, text, numeric input or a fraction, etc. The interaction in the Learner view looks like:
 
 ![Drag and drop sorting interaction in Learner’s view]()
@@ -76,46 +77,46 @@ Four rules are implemented for Drag and Drop Sorting interaction that verifies t
 #### Milestone 1:
 *Milestone 1.1*
 * In this milestone, basic Python configuration file, rule editors and backend object models for Number with Units interaction were added.
-* Pull Requests: https://github.com/oppia/oppia/pull/4950; https://github.com/oppia/oppia/pull/4941
+* Pull Requests: [https://github.com/oppia/oppia/pull/4950](https://github.com/oppia/oppia/pull/4950); [https://github.com/oppia/oppia/pull/4941](https://github.com/oppia/oppia/pull/4941)
 
 *Milestone 1.2*
 * In this milestone, the interaction directives for the Learner’s view were added along with their html templates.
-* Pull Request: https://github.com/oppia/oppia/pull/4979
+* Pull Request: [https://github.com/oppia/oppia/pull/4979](https://github.com/oppia/oppia/pull/4979)
 
 *Milestone 1.3*
 * In this milestone, the two new rule specs, validation of these rules and frontend and protractor e2e tests for the interaction were added.
 * Finally, the basic version of the interaction was enabled allowing validation and verification of the mathematical units but without the currency units.
-* Pull Request: https://github.com/oppia/oppia/pull/5028
+* Pull Request: [https://github.com/oppia/oppia/pull/5028](https://github.com/oppia/oppia/pull/5028)
 
 #### Milestone 2:
 *Milestone 2.1*
 * In this milestone, basic Python configuration file, two new rule editors and backend objects for Drag and Drop interaction were added.
 * Angular ‘ui-tree’ dependency was also added into Oppia.
-* Pull Requests: https://github.com/oppia/oppia/pull/5110; https://github.com/oppia/oppia/pull/5118
+* Pull Requests: [https://github.com/oppia/oppia/pull/5110](https://github.com/oppia/oppia/pull/5110); [https://github.com/oppia/oppia/pull/5118](https://github.com/oppia/oppia/pull/5118)
 
 *Milestone 2.2*
 * In this milestone, the interaction directives for Learner’s view along with their html templates were added.
-* Pull Request: https://github.com/oppia/oppia/pull/5137
+* Pull Request: [https://github.com/oppia/oppia/pull/5137](https://github.com/oppia/oppia/pull/5137)
 
 *Milestone 2.3*
 * In this milestone, two new rule specs, validation for these rules and frontend tests were added for Drag and Drop interaction.
-* Pull Request: https://github.com/oppia/oppia/pull/5162
+* Pull Request: [https://github.com/oppia/oppia/pull/5162](https://github.com/oppia/oppia/pull/5162)
 
 #### Milestone 3:
 *Milestone 3.1*
 * In this milestone, currency units (like dollar, rupees, cents etc.) were added for Number with Units interaction.
 * Help table for correct input format was also added in case the learner is stuck with writing valid units.
 * The final version of the Number with Units interaction was released on the Oppia’s main site.
-* Pull Requests: https://github.com/oppia/oppia/pull/5124; https://github.com/oppia/oppia/pull/5175
+* Pull Requests: [https://github.com/oppia/oppia/pull/5124](https://github.com/oppia/oppia/pull/5124); [https://github.com/oppia/oppia/pull/5175](https://github.com/oppia/oppia/pull/5175)
 
-#### Milestone 3.2
+*Milestone 3.2*
 * In this milestone, two more rule specs for verifing the input were added for drag and drop sorting interaction.
 * The two new rule editors and backend objects for these rules were added.
-* Pull Requests: https://github.com/oppia/oppia/pull/5338
+* Pull Requests: [https://github.com/oppia/oppia/pull/5338](https://github.com/oppia/oppia/pull/5338)
 
 #### Bug Fixes
 * Fixed the bugs that were discovered in the project during the testing period before the final release.
-* https://github.com/oppia/oppia/pull/5301
+* [https://github.com/oppia/oppia/pull/5301](https://github.com/oppia/oppia/pull/5301)
 
 ---
 
@@ -129,8 +130,11 @@ Well, I am happy that I learnt so much during this tenure of 3 months. I would l
 
 ## References
 
-* Oppia Github repository: https://github.com/oppia/oppia
-* All commits to Oppia: https://github.com/oppia/oppia/commits?author=vibhor98
-* Accepted proposal: https://github.com/oppia/oppia/wiki/pdfs/GSoC2018VibhorAgarwal.pdf
-* Daily devlogs of the work: https://drive.google.com/open?id=1PHkF7v8lFJASKBMhrXWqODOaaK-ccny7ixmB4A7zkeE
+* Oppia Github repository: [https://github.com/oppia/oppia](https://github.com/oppia/oppia)
+
+* All commits to Oppia: [https://github.com/oppia/oppia/commits?author=vibhor98](https://github.com/oppia/oppia/commits?author=vibhor98)
+
+* Accepted proposal: [https://github.com/oppia/oppia/wiki/pdfs/GSoC2018VibhorAgarwal.pdf](https://github.com/oppia/oppia/wiki/pdfs/GSoC2018VibhorAgarwal.pdf)
+
+* Daily devlogs of the work: [https://drive.google.com/open?id=1PHkF7v8lFJASKBMhrXWqODOaaK-ccny7ixmB4A7zkeE](https://drive.google.com/open?id=1PHkF7v8lFJASKBMhrXWqODOaaK-ccny7ixmB4A7zkeE)
 
