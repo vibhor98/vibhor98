@@ -11,11 +11,11 @@ category: blog
 author: Vibhor Agarwal
 ---
 
-![GSoC]()
+![GSoC](https://github.com/vibhor98/vibhor98/blob/gh-pages/assets/images/gsoc/GSoC.jpeg)
 
 The Google Summer of Code, often abbreviated as GSoC, is an open source initiative taken by Google every year in which the student developers get to work on one of the open source projects during summer and get stipend for their work. This year I was fortunate enough to be a part of GSoC’ 18 under Oppia Foundation. Before diving into the depth of my project, let me take the opportunity to introduce myself: I’m Vibhor Agarwal, a third year Computer Science undergraduate, who loves to contribute to Open Source projects.
 
-![Oppia]()
+![Oppia](https://github.com/vibhor98/vibhor98/blob/gh-pages/assets/images/gsoc/oppia.jpeg)
 
 Oppia is very special for me from the beginning itself since I love teaching from the childhood and have been interested on the noble cause of spreading education among the masses.
 
@@ -29,17 +29,17 @@ My project “New Interactions” aimed at implementing two new interactions- �
 
 **Number with Units interaction** allows the learners to input value along with the mathematical units. The value can be either a real number or a fraction while units can be SI, non-SI or currency units like dollar, rupees, cents etc. This interaction aims at providing the complete understanding of the number (real or fraction) input with mathematical units by directly interacting with the learners. The interaction in the Learner view looks like:
 
-![Number with units interaction in Learner’s view]()
+![Number with units interaction in Learner’s view](https://github.com/vibhor98/vibhor98/blob/gh-pages/assets/images/gsoc/nwu_interaction.png)
 
 The input string is validated at every instant before the final submission of the answer to ensure that the learner enters the units in the correct format.
 
-![Validation of the answer entered by the learner]()
+![Validation of the answer entered by the learner](https://github.com/vibhor98/vibhor98/blob/gh-pages/assets/images/gsoc/nwu_validation.png)
 
 In the extreme cases when the learner may be stuck with writing units, he can refer to the help table provided with the interaction by clicking on ‘Possible unit formats’ button.
 
 Interactions are associated with the rules in Oppia. These rules are designed to validate the answer submitted by the learner and provide the appropriate feedback accordingly as and when required. Two rules are implemented for Number with Units interaction:
 
-![Rule Editor for Number with units interaction]()
+![Rule Editor for Number with units interaction](https://github.com/vibhor98/vibhor98/blob/gh-pages/assets/images/gsoc/nwu_editor.png)
 
 * **Is equal to** rule: This rule provides appropriate feedback to the learner when the learner submits the exactly same answer as the input provided by the creator of the lesson.
 
@@ -48,27 +48,27 @@ Interactions are associated with the rules in Oppia. These rules are designed to
 
 **Drag and Drop Sorting interaction** allows the learner to drag and drop the items and arrange them in either ascending or descending order. This interaction aims at providing good understanding of arranging the things with the help of drag and drop interface. The draggable item can be an image, text, numeric input or a fraction, etc. The interaction in the Learner view looks like:
 
-![Drag and drop sorting interaction in Learner’s view]()
+![Drag and drop sorting interaction in Learner’s view](https://github.com/vibhor98/vibhor98/blob/gh-pages/assets/images/gsoc/dnd_interaction.png)
 
 It is clear that out of the above items, 2/3 and 4/6 fractions are equivalent and should occupy the same position in the sequence in ascending order. So, they can be dropped so that they somewhat overlap each other as shown while other draggable items shown independently occupy different positions in the sequence.
 
-![Items after sorting]()
+![Items after sorting](https://github.com/vibhor98/vibhor98/blob/gh-pages/assets/images/gsoc/drag_and_drop.png)
 
 Four rules are implemented for Drag and Drop Sorting interaction that verifies the submitted answer and provides appropriate feedback to the learner.
 
 * **Is equal to ordering** rule: This rule provides appropriate feedback to the learner when the submitted answer sequence exactly matches with the input provided by the lesson creator. The rule editor in the Creator view where the creator actually sets the input looks like:
 
-![Rule editor for ‘Is equal to ordering’ rule]()
+![Rule editor for ‘Is equal to ordering’ rule](https://github.com/vibhor98/vibhor98/blob/gh-pages/assets/images/gsoc/rule3_editor_dnd.png)
 
 * **Is equal to ordering with one item at incorrect position** rule: This rule provides feedback when exactly one item in the submitted sequence is at the wrong position. Its rule editor is same as that of the rule above.
 
 * **Has element X at position Y** rule: This rule provides feedback when the selected element (say X) from the list of elements is at the position (say Y) in the submitted sequence as set by the creator while setting the rules for the interaction. The rule editor in the Creator view looks like:
 
-![Rule editor for ‘Has element X at position Y’ rule]()
+![Rule editor for ‘Has element X at position Y’ rule](https://github.com/vibhor98/vibhor98/blob/gh-pages/assets/images/gsoc/rule1_editor_dnd.png)
 
 * **Has element X before element Y** rule: This rule provides feedback when the selected element (say X) from the list is before the another selected element (say Y) as choosen by the lesson creator. The rule editor looks like:
 
-![Rule editor for ‘Has element X before element Y’ rule]()
+![Rule editor for ‘Has element X before element Y’ rule](https://github.com/vibhor98/vibhor98/blob/gh-pages/assets/images/gsoc/rule2_editor_dnd.png)
 
 ---
 
