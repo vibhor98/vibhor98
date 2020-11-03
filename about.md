@@ -18,6 +18,14 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
+<h2>Research Publications</h2>
+
+<ul>
+	<li>Vibhor Agarwal. Video Surveillance System for Female Security using Keras. Poster presented at The PyCon US 2020, PA, USA.</li>
+	<li>Vibhor Agarwal, Yash Vekaria, Pushkal Agarwal, Shounak Set, Sangeeta Mahapatra, Sakthi Balan, Nishanth Sastry, and Nicolas Kourtellis. Under the Spotlight: 		Web Tracking in Indian Partisan News Websites. Submitted to The Web Conference (WWW 2021).</li>
+	<li>Nirmal Sivaraman, Vibhor Agarwal, Yash Vekaria, and Sakthi Balan. Hypothesizing “Peak + Herd = Event”: A Meta-Data based Event Detection Method in Twitter 			using Temporal Herding Factor. Submitted to WSDM 2021.</li>
+</ul>
+
 <h2>Awards</h2>
 
 <ul>
