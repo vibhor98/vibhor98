@@ -11,7 +11,7 @@ category: blog
 author: Vibhor Agarwal
 ---
 
-![GSoC](https://github.com/vibhor98/vibhor98/blob/gh-pages/assets/images/gsoc/GSoC.jpeg)
+![GSoC](../assets/images/gsoc/GSoC.jpeg)
 
 The Google Summer of Code, often abbreviated as GSoC, is an open source initiative taken by Google every year in which the student developers get to work on one of the open source projects during summer and get stipend for their work. This year I was fortunate enough to be a part of GSoC’ 18 under Oppia Foundation. Before diving into the depth of my project, let me take the opportunity to introduce myself: I’m Vibhor Agarwal, a third year Computer Science undergraduate, who loves to contribute to Open Source projects.
 
