@@ -4,19 +4,9 @@ layout: page
 ---
 ![Profile Image](assets/images/vibh_profile.jpg)
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hello World! I am Vibhor Agarwal, currently working as Site Reliability Engineer at Media.net (Directi) in Mumbai, India. I graduated with Computer Science and Engineering (B. Tech.) degree from The LNMIIT, Jaipur in June 2020. My honours include a Bachelor's Best Thesis Award and an overall CGPA of 9.45 out of 10. I was also a Google Summer of Code developer in 2018 and contributed to the open source project, Oppia.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am mainly interested in Machine Learning and Distributed Systems. I (mostly) code in Python and love to solve real world problems with technical solutions. Besides machine learning, I am also interested in Privacy and Security on the Web, and Computational Social Sciences.</p>
 
 <h2>Research Publications</h2>
 
@@ -34,6 +24,13 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>Meritorious Certification and Scholarship for securing position in top 1 percentile at LNMIIT, Jaipur</li>
 	<li>Certificate of Appreciation for Google Summer of Code’ 18 at LNMIIT, Jaipur</li>
 	<li>Earned Silver Medal at State level Mental Ability Competition (Abacus)</li>
+</ul>
+
+<h2>Tech Conferences</h2>
+
+<ul>
+	<li> <b>PyCon US 2020 (PA, USA):</b> Poster presentation on <a href="https://drive.google.com/file/d/1ypYqT1QOWTN9C23mNzvKlshqdeHRF0WX/view?usp=sharing">Video 			Surveillance System for Female Security using Keras</a></li>
+	<li> <b>PyJaipur 2018 (Jaipur, India):</b> Talk on 'How to crack Google Summer of Code' and share my GSoC' 18 experiences.</li>
 </ul>
 
 <h2>Skills</h2>
