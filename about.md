@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image](https://media.licdn.com/dms/image/C5603AQFrkTpRFED7Jw/profile-displayphoto-shrink_200_200/0?e=1538006400&v=beta&t=zLDMEoQgYuNBN8mxQ2-dZFCo-jweyqFs4fcHsg5v2Gc)
+![Profile Image](assets/images/vibh_profile.jpg)
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
