@@ -7,8 +7,8 @@ description: A blog about technology and stuff related.
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
-picture: https://media.licdn.com/dms/image/C5603AQFrkTpRFED7Jw/profile-displayphoto-shrink_200_200/0?e=1538006400&v=beta&t=zLDMEoQgYuNBN8mxQ2-dZFCo-jweyqFs4fcHsg5v2Gc
+external-image: false
+picture: assets/images/vibh_profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -56,8 +56,8 @@ authors:
     vibhor98:
         name: Vibhor Agarwal
         bio: Site Reliability Engineer @Media.net | GSoC'18 @Oppia | Interested in Machine Learning, and Distributed Systems
-        external-image: true
-        picture: https://media.licdn.com/dms/image/C5603AQFrkTpRFED7Jw/profile-displayphoto-shrink_200_200/0?e=1538006400&v=beta&t=zLDMEoQgYuNBN8mxQ2-dZFCo-jweyqFs4fcHsg5v2Gc
+        external-image: false
+        picture: assets/images/vibh_profile.jpg
         twitter: vibhor711
 
 # do you want a larger site? change the option below
