@@ -8,7 +8,7 @@ tag:
 - gsoc
 - oppia
 category: blog
-author: Vibhor Agarwal
+author: vibhor98
 ---
 
 ![GSoC](../assets/images/gsoc/GSoC.jpeg)
