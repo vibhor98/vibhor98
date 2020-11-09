@@ -8,7 +8,8 @@ tag:
 - surveillance system
 - computer vision
 - deep learning
-category: project
+projects: true
+category:
 author: vibhor98
 ---
 
